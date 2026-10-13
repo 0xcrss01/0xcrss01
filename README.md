@@ -1,30 +1,59 @@
 
-<h3 align="center"> 💫 About Me  </h3>
-<p align="center">My mission is to grow from a beginner into a skilled Cyber Security through consistent learning, I am IT Students Studying Programming Building skills through real-world projects.</p>
-<!-- -> I'm learning programming and cyber security with a focus on Python, Web, and Linux.<br> -> My goal is to become a Cyber Security professional and build a strong foundation in coding.<br> -> My mission is to grow from a beginner into a skilled Cyber Security professional through consistent learning and real projects. -->
+<h1 align="center">Hey, I'm 0xcrss 👋</h1>
 
+<p align="center">
+  <strong>Tech Enthusiast · Learner · Builder</strong>
+</p>
 
+<p align="center">
+  <em>Curious by nature. Learning by building.</em>
+</p>
 
-<!--
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kalen_dev01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nauvalafani01@gmail.com) 
--->
-<!--### 💻 Tech Stack:
- <p align="center"> -->
-<!--  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=github,html,css,python" /> -->
-  <!-- </a> -->
-<!-- </p> -->
-<!--
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nauvalafani01&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauvalafani01&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
--->
+---
 
-<!-- Pro🎯udly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
 
+I'm a technology enthusiast who enjoys exploring how things work.
 
+From programming and operating systems to networking and
+cybersecurity, I'm interested in learning the fundamentals
+and understanding how different parts of IT connect.
 
+This GitHub is my personal tech lab — a place to document
+my learning journey, experiment with ideas, and build
+practical projects one step at a time.
 
+## Currently Exploring
 
+- Programming fundamentals with Python
+<!-- - Linux and server administration -->
+<!-- - Networking and web technologies -->
+<!-- - Cybersecurity fundamentals -->
+- Git, GitHub, and technical documentation
+
+## My Learning Philosophy
+
+- Understand the fundamentals first.
+- Learn by building small projects.
+- Document experiments and mistakes.
+- Improve through practice and consistency.
+
+## Projects & Notes
+
+Here you'll find my learning projects, experiments,
+technical notes, and tools created along the way.
+
+I'm still learning, and every project is an opportunity
+to understand something new.
+
+## Tech Interests
+
+`Python` 
+<!-- `Linux` `Networking` `Web Development` -->
+<!-- `Git` `Cybersecurity` `Automation` -->
+
+---
+
+<p align="center">
+  <strong>Explore. Build. Learn. Repeat.</strong>
+</p>
